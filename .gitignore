@@ -1,3 +1,7 @@
+# Ignore the build folder
+Build
+
+# UE4 default
 Binaries
 DerivedDataCache
 Intermediate
